@@ -1,0 +1,6 @@
+com.tka.eci.client
+com.tka.eci.controller
+com.tka.eci.dao
+com.tka.eci.entity
+com.tka.eci.service
+com.tka.eci.utility

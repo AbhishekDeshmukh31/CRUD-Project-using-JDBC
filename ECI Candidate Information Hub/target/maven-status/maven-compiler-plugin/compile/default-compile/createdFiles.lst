@@ -1,0 +1,6 @@
+com\tka\eci\service\CandidateService.class
+com\tka\eci\dao\CandidateDao.class
+com\tka\eci\utility\CandidateUtility.class
+com\tka\eci\controller\CandidateController.class
+com\tka\eci\entity\Candidate.class
+com\tka\eci\client\CandidateClient.class
